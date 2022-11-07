@@ -235,4 +235,5 @@ The final URL is:
 Note: The value of the `f` parameter needs to be modified to correspond to the filename encrypted. Here is the base64 encoding of `/etc/passwd`.
 
 And we get the flag:
+
 ![chall4 flag](pics/chall4-flag.png)
